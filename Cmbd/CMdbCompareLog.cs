@@ -9,7 +9,7 @@ namespace NMdb
     class MdbComparerLog
     {
         static StreamWriter log;
-
+        public static string mOutPath;
         static void Log(string s)
         {
             Console.WriteLine(s);
@@ -59,7 +59,7 @@ namespace NMdb
 
         public static void CompareMdb(string mdb1, string pPwd1, string mdb2, string pPwd2)
         {
-            log = new StreamWriter("compOut.txt", false);
+            log = new StreamWriter(mOutPath, false);
 
             DataTable dt1 = GetColumns(mdb1, pPwd1);
             DataTable dt2 = GetColumns(mdb2, pPwd2);

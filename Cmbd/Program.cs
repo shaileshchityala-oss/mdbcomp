@@ -9,8 +9,12 @@ namespace NMdb
 
         static void Main()
         {
-           // MdbComparer.CompareMdb(@"C:\Shailesh\misc\code\greekReg.mdb", "FintEstpwD", @"C:\Shailesh\misc\code\greekNav.mdb", "FintEstpwD");
-            MdbComparerLog.CompareMdb(@"C:\Shailesh\misc\code\greekReg.mdb", "FintEstpwD", @"C:\Shailesh\misc\code\greekNav.mdb", "FintEstpwD");
+            MdbComparerLog.mOutPath = @"C:\Shailesh\bse\mdb\res.txt";
+            string file1 = @"C:\Shailesh\bse\mdb\reg.mdb";
+            string file2 = @"C:\Shailesh\bse\mdb\bse.mdb";
+            string pwd = @"FintEstpwD";
+
+            MdbComparerLog.CompareMdb(file1, pwd, file2, pwd);
             Console.ReadKey();
         }
     }

@@ -5,3 +5,10 @@ C:\Users\ADMIN\source\repos\Cmbd\Cmbd\obj\Debug\Cmbd.csproj.AssemblyReference.ca
 C:\Users\ADMIN\source\repos\Cmbd\Cmbd\obj\Debug\Cmbd.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\source\repos\Cmbd\Cmbd\obj\Debug\Cmbd.exe
 C:\Users\ADMIN\source\repos\Cmbd\Cmbd\obj\Debug\Cmbd.pdb
+C:\Shailesh\misc\mdbCmp\Cmbd\Cmbd\bin\Debug\Cmbd.exe.config
+C:\Shailesh\misc\mdbCmp\Cmbd\Cmbd\bin\Debug\Cmbd.exe
+C:\Shailesh\misc\mdbCmp\Cmbd\Cmbd\bin\Debug\Cmbd.pdb
+C:\Shailesh\misc\mdbCmp\Cmbd\Cmbd\obj\Debug\Cmbd.csproj.AssemblyReference.cache
+C:\Shailesh\misc\mdbCmp\Cmbd\Cmbd\obj\Debug\Cmbd.csproj.CoreCompileInputs.cache
+C:\Shailesh\misc\mdbCmp\Cmbd\Cmbd\obj\Debug\Cmbd.exe
+C:\Shailesh\misc\mdbCmp\Cmbd\Cmbd\obj\Debug\Cmbd.pdb
